@@ -1,0 +1,7 @@
+1 - criacao da pagina index.html e estilo.css;
+2 - aplicacao das propriedades basicas no body atraves do css: cor de fundo,
+tipo de fonte e seu tamanho.
+3 - no arquivo index.html, foi criada uma div geral para a pagina inteira; podem
+existir divs aninhadas dentro do codigo; obs: a div sempre ocupa o espaco padrao da pagina;
+4 - a cada div criada, deve-se estilizá-la atraves de seu id correspondente do codigo html.
+5 - a propriedade padding é responsavel pelo expacamento interno entre a borda da div e seu conteudo;

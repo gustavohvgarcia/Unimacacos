@@ -1,0 +1,55 @@
+body{
+	background-color: #CAF0F8;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	
+	width: 900px;
+
+}
+
+#capa {
+	width: 900px;
+	height: 350px;	
+}
+
+#menu{
+	background: #0077b6;
+	border: 1px solid #03045e;
+	padding: 10px;
+	
+
+}
+
+#conteudo{
+	background: #ADE8F4;
+	padding: 20px;
+}
+
+#rodape {
+	text-align: center;
+	font: bold;
+	padding: 1px;
+}
+
+#falecomigo{
+	padding: 10px;
+}
+.img-carreiras {
+	border: 10px solid #0077b6;
+}
+
+a {
+	color: #03045e;
+	font-size: 15px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+h1 {
+	color: #023e8a;
+	font-size: 1.2em;
+}
